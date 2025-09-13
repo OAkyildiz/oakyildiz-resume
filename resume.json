@@ -2,7 +2,6 @@
   "meta": {
     "theme": "elegant"
   },
-  {
   "basics": {
     "name": "Ozan Akyıldız",
     "label": "Robotics Engineer",
@@ -191,5 +190,4 @@
       "fluency": "Native"
     }
   ]
-}
 }
