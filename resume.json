@@ -36,7 +36,7 @@
       "position": "ADAS & AI Engineer",
       "website": "",
       "startDate": "2023-12",
-      "endDate": "Present",
+      "endDate": "",
       "summary": "ADAS perception and automation development on TI SoCs and test vehicles.",
       "highlights": [
         "Deployed production-ready perception pipelines on TI TDA4 SoCs, transitioning AI prototypes into a full C++ stack with TIDL.",
