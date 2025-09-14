@@ -95,7 +95,7 @@
       "institution": "Worcester Polytechnic Institute (WPI)",
       "area": "Robotics Engineering",
       "studyType": "Master of Science",
-      "startDate": "",
+      "startDate": "2017-08",
       "endDate": "2019-05",
       "gpa": "3.3",
       "courses": []
@@ -104,7 +104,7 @@
       "institution": "Worcester Polytechnic Institute (WPI)",
       "area": "Robotics Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "",
+      "startDate": "2012-08",
       "endDate": "2016-05",
       "gpa": "3.54",
       "courses": []
@@ -113,19 +113,19 @@
   "awards": [
     {
       "title": "Presidential Scholarship",
-      "date": "",
+      "date": "2012-07",
       "awarder": "Turkey",
       "summary": "33rd and 7th in the nation."
     },
     {
       "title": "Charles O. Thompson Scholar",
-      "date": "",
+      "date": "2013-12",
       "awarder": "WPI",
       "summary": ""
     },
     {
       "title": "Dean’s List",
-      "date": "",
+      "date": "2013-05",
       "awarder": "WPI",
       "summary": ""
     }
