@@ -1,6 +1,6 @@
-{
+{  
   "meta": {
-    "theme": "elegant"
+    "theme": "modern"
   },
   "basics": {
     "name": "Ozan Akyıldız",
@@ -9,133 +9,103 @@
     "email": "akyildizozan@gmail.com",
     "phone": "+90 552 449 2411",
     "website": "https://github.com/oakyildiz",
-    "summary": "Robotics engineer with a strong background in ADAS and AI, combining technical expertise in perception, sensor fusion, and embedded AI with hands-on experience in vehicle integration and testing. Proficient in ROS2, C++, Python, and multi-arch containerized workflows. Skilled at designing systems that connect development, deployment, and validation in real-world automotive environments.",
+    "summary": "Experienced Robotics Engineer proficient in designing and deploying systems. Expertise includes ROS, embedded platforms, perception pipelines, and developing the crucial hardware and software infrastructure to accelerate platform development. Known for quickly acquiring new skills and resolving technical challenges to deliver robust systems in fast-paced environments.",
     "location": {
-      "address": "Kadıköy/Istanbul",
+      "address": "",
       "postalCode": "",
-      "city": "Istanbul",
-      "countryCode": "TUR",
-      "region": "Turkey"
+      "city": "Çankaya",
+      "countryCode": "TR",
+      "region": "Ankara"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "ozan-akyildiz",
-        "url": "https://www.linkedin.com/in/ozan-akyildiz"
+        "url": "http://www.linkedin.com/in/ozan-akyildiz"
       },
       {
         "network": "GitHub",
         "username": "oakyildiz",
-        "url": "https://github.com/oakyildiz"
+        "url": "http://www.github.com/oakyildiz"
       }
     ]
   },
   "work": [
     {
-      "company": "TOGG · Trutek",
+      "company": "TOGG - Trutek",
       "position": "ADAS & AI Engineer",
-      "website": "https://togg.com.tr",
-      "startDate": "2023-12-01",
-      "endDate": "",
-      "summary": "Worked on ADAS perception, radar integration, and end-to-end system infrastructure for multi-sensor test vehicles.",
+      "website": "",
+      "startDate": "2023-12",
+      "endDate": "Present",
+      "summary": "ADAS perception and automation development on TI SoCs and test vehicles.",
       "highlights": [
-        "Built ROS2-based perception pipelines on TI TDA4VH/J784S4 with ONNX Runtime + TIDL EP.",
-        "Designed an extensible radar interface architecture to unify multi-vendor radars over CAN/FD using FastDDS.",
-        "Implemented ADAS functions: traffic sign recognition, high-beam assist pipelines, detection stabilization, BEV projections.",
-        "Integrated sensors (cameras, Ouster LiDAR, OxTS INS/GNSS) with calibration, PTP sync, and logging workflows.",
-        "Developed CI/CD pipelines and containerized multi-arch images for deployment on test vehicles."
+        "Deployed production-ready perception pipelines on TI TDA4 SoCs, transitioning AI prototypes into a full C++ stack with TIDL.",
+        "Redesigned the radar software stack using metaprogramming to provide a driver framework.",
+        "Established CI/CD pipelines and containerized infrastructure for algorithm development and testing.",
+        "Spun-up ROS2 nodes for test control, data handling, and visualization, integrating with FastDDS middleware.",
+        "Brought up ADAS cameras and enabled video pipelines using GStreamer and custom drivers.",
+        "Served as Product Owner for High-Beam Assist, developing a hardware-aware lighting module with scalable features.",
+        "Provided technical leadership and support on system design, development stack setup, and troubleshooting for the team."
       ]
     },
     {
       "company": "myRide",
-      "position": "Lead Project Engineer",
+      "position": "Drive-by-Wire & Perception Lead",
       "website": "",
-      "startDate": "2019-03-01",
-      "endDate": "2022-12-01",
-      "summary": "Led development of autonomous drive-by-wire EV kit with ROS.",
+      "startDate": "2019-03",
+      "endDate": "2022-12",
+      "summary": "Led development of a drive-by-wire EV kit.",
       "highlights": [
-        "Designed and implemented autonomous drive-by-wire EV kit with ROS on Jetson NX and Arduino CAN controllers.",
-        "Developed firmware, ROS middleware, teleop/camera nodes, and basic autonomy modules.",
-        "Produced wiring harnesses, power circuitry, and prototype hardware enclosures.",
-        "Supervised control, perception, and mechanical engineers while creating system documentation."
+        "Led design and implementation of an autonomous drive-by-wire EV kit, integrating electro-mechanical systems with ROS middleware, embedded CAN controllers, and perception modules.",
+        "Acted as the key technical lead, guiding and instructing voluntary contributors to ensure consistent architecture and progress.",
+        "Developed MCU firmware, prototyping infrastructure, and testing interfaces that accelerated vehicle integration and validation."
       ]
     },
     {
       "company": "Radiation Safety & Control Services",
       "position": "Robotics Engineer",
       "website": "",
-      "startDate": "2020-05-01",
-      "endDate": "2021-12-01",
-      "summary": "Developed robotic radiation scanning platform with automated data collection.",
+      "startDate": "2020-05",
+      "endDate": "2021-12",
+      "summary": "Converted industrial scanning equipment into robotic platforms.",
       "highlights": [
-        "Converted radiation cart into a robotic platform with live LIDAR-SLAM, dynamic URDF, and diagnostics.",
-        "Automated radiation data collection with 3D visualization and ROS pipelines.",
-        "Designed custom sensor circuits and implemented I2C drivers for embedded controllers."
+        "Converted a radiation-scanning cart into a robotic platform with live LIDAR-based SLAM, dynamic URDF model, and diagnostics.",
+        "Automated radiation data collection with continuous binning and 3D visualization, and added radiation messages to ROS.",
+        "Designed and built sensor circuits for gas supply control; implemented I2C drivers for Arduino and Embedded PCs.",
+        "Built a source test bed with an rPi-controlled precision actuator, custom-boot Ubuntu, and a JavaScript touchscreen interface."
       ]
     },
     {
       "company": "Human-Inspired Robotics Lab, WPI",
       "position": "Research Assistant",
       "website": "",
-      "startDate": "2017-11-01",
-      "endDate": "2019-02-01",
-      "summary": "Supported research on teleoperated nursing robot perception and motion.",
+      "startDate": "2017-11",
+      "endDate": "2019-02",
+      "summary": "Supported research on teleoperated nursing robot systems.",
       "highlights": [
-        "Supervised teams and deployed robotic systems using ROS controllers.",
-        "Reduced user study training time from 9 hours to 2 with improved study design.",
-        "Enhanced ROSJava camera libraries and created mobile monitoring apps."
-      ]
-    },
-    {
-      "company": "Pera Finance",
-      "position": "Software Developer",
-      "website": "",
-      "startDate": "2021-12-01",
-      "endDate": "2022-12-01",
-      "summary": "Improved and migrated distributed system smart contracts.",
-      "highlights": [
-        "Improved the main smart contract and supported migration of the system for stability and scalability."
-      ]
-    },
-    {
-      "company": "THE 541N75",
-      "position": "Co-Founder",
-      "website": "",
-      "startDate": "2022-01-01",
-      "endDate": "2023-11-01",
-      "summary": "Designed a decentralized system concept for a creative collective.",
-      "highlights": [
-        "Designed system architecture for a creative collective (exploratory project, not realized)."
+        "Supervised graduate research and undergrad project teams regarding perception and motion of a teleoperated nursing robot.",
+        "Deployed the robotic system, implemented various controllers for the ROS robotic platform, and maintained the lab’s Git collection.",
+        "Recreated a user study to reduce training time from 9 hours to 2, with improved user performance.",
+        "Enhanced ROSJava camera libraries and created a mobile app with a master Linux app to monitor perception experiments."
       ]
     }
   ],
   "education": [
     {
-      "institution": "Worcester Polytechnic Institute",
+      "institution": "Worcester Polytechnic Institute (WPI)",
       "area": "Robotics Engineering",
       "studyType": "Master of Science",
-      "startDate": "2017-09-01",
-      "endDate": "2019-05-01",
+      "startDate": "",
+      "endDate": "2019-05",
       "gpa": "3.3",
-      "courses": [
-        "Motion Planning",
-        "Systems Engineering",
-        "Computer Vision",
-        "Robot Control",
-        "Dynamics & Navigation",
-        "Deep Learning",
-        "Machine Learning",
-        "AI",
-        "DSP",
-        "Embedded Systems"
-      ]
+      "courses": []
     },
     {
-      "institution": "Worcester Polytechnic Institute",
+      "institution": "Worcester Polytechnic Institute (WPI)",
       "area": "Robotics Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "2012-09-01",
-      "endDate": "2016-05-01",
+      "startDate": "",
+      "endDate": "2016-05",
       "gpa": "3.54",
       "courses": []
     }
@@ -144,50 +114,111 @@
     {
       "title": "Presidential Scholarship",
       "date": "",
-      "awarder": "Republic of Turkey",
-      "summary": "Ranked 33rd in the nation."
+      "awarder": "Turkey",
+      "summary": "33rd and 7th in the nation."
     },
     {
       "title": "Charles O. Thompson Scholar",
       "date": "",
       "awarder": "WPI",
-      "summary": "Honored for academic achievement."
+      "summary": ""
+    },
+    {
+      "title": "Dean’s List",
+      "date": "",
+      "awarder": "WPI",
+      "summary": ""
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["C++", "Python"]
+      "level": "",
+      "keywords": ["C++", "Python", "JavaScript"]
     },
     {
       "name": "Frameworks",
-      "keywords": ["ROS2", "FastDDS", "OpenCV", "ONNX Runtime", "Foxglove"]
+      "level": "",
+      "keywords": ["ROS2", "FastDDS", "OpenCV", "ONNX", "TIDL/TIOVX"]
     },
     {
       "name": "Platforms",
-      "keywords": ["TI TDA4VH", "NVIDIA Jetson", "Embedded Linux", "Docker"]
+      "level": "",
+      "keywords": ["TI TDA4VH", "NVIDIA Jetson", "Embedded Linux", "CAN", "SPI", "I2C"]
     },
     {
-      "name": "ADAS/Robotics",
-      "keywords": ["Perception Pipelines", "Sensor Fusion", "Control Systems", "Multi-Sensor Integration"]
+      "name": "Robotics",
+      "level": "",
+      "keywords": ["ADAS", "Mobile Platforms", "Perception/Vision", "Control Systems", "SLAM", "HMI"]
     },
     {
-      "name": "Tools",
-      "keywords": ["GitLab CI/CD", "Linux", "LaTeX"]
-    },
-    {
-      "name": "Languages",
-      "keywords": ["English (Bilingual)", "Turkish (Native)"]
+      "name": "Methodology",
+      "level": "",
+      "keywords": ["System Design", "Prototyping", "Instrumentation", "DevOps: Git & Docker", "HIL/SIL"]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Bilingual"
+      "fluency": "Fluent"
     },
     {
       "language": "Turkish",
       "fluency": "Native"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "volunteer": [],
+  "publications": [],
+  "projects": [
+    {
+      "company": "THE 541N75",
+      "position": "Co-founder",
+      "startDate": "2022-01",
+      "endDate": "2023-11"
+    },
+    {
+      "company": "Pera Finance",
+      "position": "Senior Software Developer",
+      "startDate": "2021-12",
+      "endDate": "2022-12"
+    },
+    {
+      "company": "Technocopia",
+      "position": "FLL Coach, Instructor",
+      "startDate": "2017-09",
+      "endDate": "2018-05"
+    },
+    {
+      "company": "Amazon Robotics, WPI",
+      "position": "Graduate Instructor",
+      "startDate": "2017-07",
+      "endDate": "2017-08"
+    },
+    {
+      "company": "Auriel Capital Ltd.",
+      "position": "Research Intern",
+      "startDate": "2017-07",
+      "endDate": "2017-07"
+    },
+    {
+      "company": "MainScreen",
+      "position": "Technology Consultant",
+      "startDate": "2016-08",
+      "endDate": "2017-06"
+    },
+    {
+      "company": "WALRUS Search & Rescue Rover, WPI",
+      "position": "Senior Project (MQP)",
+      "startDate": "2015-08",
+      "endDate": "2016-05"
+    },
+    {
+      "company": "Microplastic Pollution Assessment, Hong Kong",
+      "position": "Junior Project (IQP)",
+      "startDate": "2015-01",
+      "endDate": "2015-02"
     }
   ]
 }
