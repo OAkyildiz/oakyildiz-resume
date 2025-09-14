@@ -1,6 +1,6 @@
-{  
+{
   "meta": {
-    "theme": "modern"
+    "theme": "elegant"
   },
   "basics": {
     "name": "Ozan Akyıldız",
@@ -8,7 +8,6 @@
     "picture": "",
     "email": "akyildizozan@gmail.com",
     "phone": "+90 552 449 2411",
-    "website": "https://github.com/oakyildiz",
     "summary": "Experienced Robotics Engineer proficient in designing and deploying systems. Expertise includes ROS, embedded platforms, perception pipelines, and developing the crucial hardware and software infrastructure to accelerate platform development. Known for quickly acquiring new skills and resolving technical challenges to deliver robust systems in fast-paced environments.",
     "location": {
       "address": "",
@@ -36,7 +35,6 @@
       "position": "ADAS & AI Engineer",
       "website": "",
       "startDate": "2023-12",
-      "endDate": "",
       "summary": "ADAS perception and automation development on TI SoCs and test vehicles.",
       "highlights": [
         "Deployed production-ready perception pipelines on TI TDA4 SoCs, transitioning AI prototypes into a full C++ stack with TIDL.",
@@ -134,27 +132,57 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["C++", "Python", "JavaScript"]
+      "keywords": [
+        "C++",
+        "Python",
+        "JavaScript"
+      ]
     },
     {
       "name": "Frameworks",
       "level": "",
-      "keywords": ["ROS2", "FastDDS", "OpenCV", "ONNX", "TIDL/TIOVX"]
+      "keywords": [
+        "ROS2",
+        "FastDDS",
+        "OpenCV",
+        "ONNX",
+        "TIDL/TIOVX"
+      ]
     },
     {
       "name": "Platforms",
       "level": "",
-      "keywords": ["TI TDA4VH", "NVIDIA Jetson", "Embedded Linux", "CAN", "SPI", "I2C"]
+      "keywords": [
+        "TI TDA4VH",
+        "NVIDIA Jetson",
+        "Embedded Linux",
+        "CAN",
+        "SPI",
+        "I2C"
+      ]
     },
     {
       "name": "Robotics",
       "level": "",
-      "keywords": ["ADAS", "Mobile Platforms", "Perception/Vision", "Control Systems", "SLAM", "HMI"]
+      "keywords": [
+        "ADAS",
+        "Mobile Platforms",
+        "Perception/Vision",
+        "Control Systems",
+        "SLAM",
+        "HMI"
+      ]
     },
     {
       "name": "Methodology",
       "level": "",
-      "keywords": ["System Design", "Prototyping", "Instrumentation", "DevOps: Git & Docker", "HIL/SIL"]
+      "keywords": [
+        "System Design",
+        "Prototyping",
+        "Instrumentation",
+        "DevOps: Git & Docker",
+        "HIL/SIL"
+      ]
     }
   ],
   "languages": [
